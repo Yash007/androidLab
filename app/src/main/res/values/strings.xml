@@ -1,0 +1,15 @@
+<resources>
+    <!--Application name display with ICON-->
+    <string name="app_name">My Profile</string>
+
+    <!--Label name as Textview -->
+    <string name="fullName">Full Name</string>
+    <string name='qualification'>Qualification</string>
+    <string name='profession'>Profession</string>
+    <string name='hobby'>Hobby</string>
+    <string name='dreamJob'>Dream Job</string>
+    <string name='buttonName'>SEND</string>
+
+    <!--Title of form-->
+    <string name='title'>Inputs from Activity One</string>
+</resources>
